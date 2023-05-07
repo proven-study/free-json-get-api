@@ -1,0 +1,12 @@
+{
+  data: [  
+    {
+      "slug": "this-is-first-slug",
+      "description": "this is a description for the first slug"
+    },
+    {
+      "slug": "this-is-second-slug",
+      "description": "this is a description for the second slug"
+    }
+  ]
+}
